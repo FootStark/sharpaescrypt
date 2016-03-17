@@ -1,6 +1,7 @@
 Source/bin
 SharpAESCrypt.userprefs
 *.suo
+*.user
 Source/obj
 Source/packages
 Unittest/bin
